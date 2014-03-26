@@ -1,0 +1,50 @@
+
+body{
+	FONT-FAMILY: Helvetica, Verdana, Arial, sans-serif;
+	COLOR: #333333;
+	
+	 background-image: url(http://www.taipeitravel.net/frontsite/images/bg.jpg);
+	background-repeat: repeat-x; 
+}
+
+h1{
+	float: right;
+	margin: 0em;
+}
+
+.first-nav>a{
+	font: 15px/1.5 微軟正黑體;
+	display: inline;
+}
+#LeftDiv{
+ 		background-color: LightYellow;
+ 		height:400px;
+ 		width:200px;
+ 		margin:100px;
+ 		border:10px solid orange;
+ 		padding:10px;
+ 		float:left;
+ 	}
+
+
+#HotDiv{
+        width:240px;
+　      height:280px;
+      　text-align:center;
+　      line-height:280px;
+　      font-size:15px;
+　      color:#f9c81e;
+　      font-weight:bold;  
+ 		border:10px solid orange;
+ 		padding:100px;
+        margin:250px;
+　      background-color:#fffaf3;
+　      float:left;
+        
+ 		
+ 	}
+
+
+
+
+
